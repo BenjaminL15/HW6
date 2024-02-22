@@ -13,7 +13,7 @@ points = PackedVector3Array(-0.719326, 1.32809, -0.00995028, -0.718481, 1.32744,
 [node name="Node3D" type="Node3D"]
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
-transform = Transform3D(-0.405519, -0.644557, -0.648152, -0.204672, -0.627042, 0.751617, -0.890878, 0.437453, 0.122354, 28.9682, 76.6884, 0)
+transform = Transform3D(-0.405519, -0.644557, -0.648152, -0.0710618, -0.684695, 0.725357, -0.91132, 0.340205, 0.231854, 28.9682, 76.6884, 0)
 shadow_enabled = true
 
 [node name="Camera3D" type="Camera3D" parent="."]
