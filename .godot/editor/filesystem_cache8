@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1708586906
+::res://::1708586939
 char.tscn::PackedScene::7720668506607726422::1708586390::0::1::::<><>::uid://dwr8xbnnhob47::::res://makoto_yukiminato_arisato_persona_3/scene.gltf
 icon.svg::CompressedTexture2D::5206346892028721826::1708582951::1708582956::1::::<><>::
-Main.tscn::PackedScene::4756612482268465035::1708586842::0::1::::<><>::uid://bm78yaiu1nl7p::::res://wall_floor_model_corner_room/scene.gltf<>uid://doub1y7vj8cpk::::res://wooden_bed/scene.gltf<>uid://cay33gjpkxu1v::::res://desk_low-poly/scene.gltf<>uid://damlki5iboyny::::res://proptober_day_9_hand_painted_wood_floor/scene.gltf<>uid://dh87julryf1v3::::res://char.tscn<>uid://dkhs20x4w6hl2::::res://makoto_yukiminato_arisato_persona_3/goro_akechi_winter_elite-_persona_5/scene.gltf
+Main.tscn::PackedScene::4756612482268465035::1708586919::0::1::::<><>::uid://bm78yaiu1nl7p::::res://wall_floor_model_corner_room/scene.gltf<>uid://doub1y7vj8cpk::::res://wooden_bed/scene.gltf<>uid://cay33gjpkxu1v::::res://desk_low-poly/scene.gltf<>uid://damlki5iboyny::::res://proptober_day_9_hand_painted_wood_floor/scene.gltf<>uid://dh87julryf1v3::::res://char.tscn<>uid://dkhs20x4w6hl2::::res://makoto_yukiminato_arisato_persona_3/goro_akechi_winter_elite-_persona_5/scene.gltf
 README.md::TextFile::-1::1708586889::0::1::::<><>::
 ::res://desk_low-poly/::1708584130
 license.txt::TextFile::-1::1708584125::0::1::::<><>::
