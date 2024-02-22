@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dh87julryf1v3"]
 
-[ext_resource type="PackedScene" uid="uid://dwr8xbnnhob47" path="res://makoto_yukiminato_arisato_persona_3/scene.gltf" id="1_ausrs"]
+[ext_resource type="PackedScene" uid="uid://dwr8xbnnhob47" path="res://Models/makoto_yukiminato_arisato_persona_3/scene.gltf" id="1_ausrs"]
 
 [node name="Sketchfab_Scene" instance=ExtResource("1_ausrs")]
 
