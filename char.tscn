@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://dh87julryf1v3"]
+
+[ext_resource type="PackedScene" uid="uid://dwr8xbnnhob47" path="res://makoto_yukiminato_arisato_persona_3/scene.gltf" id="1_ausrs"]
+
+[node name="Sketchfab_Scene" instance=ExtResource("1_ausrs")]
+
+[node name="Skeleton3D" parent="Sketchfab_model/6c02582117324f20a5954ae5d859eacd_fbx/RootNode/Armature/Object_4" index="0"]
+bones/13/position = Vector3(0.00347497, 0.138475, -0.021525)
+bones/13/rotation = Quaternion(0.038475, -0.068525, -0.518525, 0.991475)
+bones/14/rotation = Quaternion(0.000474975, 0.000474975, -0.150525, 0.999475)
+bones/31/position = Vector3(-0.010525, 0.229475, -0.042525)
+bones/32/rotation = Quaternion(0.038475, 0.068475, 0.483475, 0.991475)
+bones/33/rotation = Quaternion(0.000474975, 0.000474975, 0.130475, 0.999475)
